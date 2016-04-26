@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Scan"
-        android:id="@+id/scanButton"
+        android:id="@+id/button_scan"
         android:layout_gravity="center"/>
 
     <ListView
@@ -91,7 +91,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/receivedDataBox"
         android:maxLines = "100"
-        android:scrollbars = "vertical"/>-->\
+        android:scrollbars = "vertical"/>-->
 
     <ScrollView
         android:id="@+id/scroll_view"

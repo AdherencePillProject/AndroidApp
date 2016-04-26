@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-325847b6323a762f5b38921032f4033f8c82aee6.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-06263acaf522bfce186d18528856c1d23f9fca1c.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-07244abcfbcbc405f2032ebbb7bae6961d0d602f.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-2d35c8c6d71d260aefc2b98f324c8e25966c29ed.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/AndroidApp/truconnectandroid/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="da164907742468dacb7981d69d744fe4bab21e0d">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-cc1a8498e31d7c203b526a88f287fc3a9bead8ea.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/classes-8ea4222677c6731bab3cf9dda647a6092c4778cd.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-42d98e63976276eec98e7d7d200074ec91f3a465.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/classes-2feb3bc18c97ede69ca620baa0553309d194eb9a.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/Sample-Android-App-master/truconnectandroid/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d54cb0b0bdc101f66d8b08807a053aa550e8ea9">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/classes-ebc56fa8b6cc4cddc2bc880b456111dfdfed30f1.jar" />
+    </item>
+
+</items>
