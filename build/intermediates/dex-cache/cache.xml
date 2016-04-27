@@ -2,11 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-325847b6323a762f5b38921032f4033f8c82aee6.jar" />
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5d8cd5b46ea34940d5f80d6b54ac1c84a20ca78f.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-313a72c4b06f791526d1759e3f0b6beee3ac2903.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-42d98e63976276eec98e7d7d200074ec91f3a465.jar" />
     </item>
     <item
         jar="/Users/Stanley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
@@ -16,39 +30,11 @@
         <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-06263acaf522bfce186d18528856c1d23f9fca1c.jar" />
     </item>
     <item
-        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-07244abcfbcbc405f2032ebbb7bae6961d0d602f.jar" />
-    </item>
-    <item
-        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-2d35c8c6d71d260aefc2b98f324c8e25966c29ed.jar" />
-    </item>
-    <item
-        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/AndroidApp/truconnectandroid/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="da164907742468dacb7981d69d744fe4bab21e0d">
-        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-cc1a8498e31d7c203b526a88f287fc3a9bead8ea.jar" />
-    </item>
-    <item
-        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/classes-8ea4222677c6731bab3cf9dda647a6092c4778cd.jar" />
-    </item>
-    <item
-        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-42d98e63976276eec98e7d7d200074ec91f3a465.jar" />
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-5606359e06375a929b919dc7731afeb15ae349f9.jar" />
     </item>
     <item
         jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
@@ -63,6 +49,41 @@
         revision="21.1.2"
         sha1="9d54cb0b0bdc101f66d8b08807a053aa550e8ea9">
         <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/classes-ebc56fa8b6cc4cddc2bc880b456111dfdfed30f1.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-48e2adf9f3f76669bf1f50e98238cef53a2792ad.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/parse-android-1.13.0-cbb8eb0095d282db6c7984a638f44eb0f2d021dc.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/exploded-aar/AndroidApp/truconnectandroid/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3adfd59ad2c79c25ffabf60c602a32c85d7fedb5">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/classes-cc1a8498e31d7c203b526a88f287fc3a9bead8ea.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/Sample-Android-App-master/app/build/intermediates/pre-dexed/debug/classes-8ea4222677c6731bab3cf9dda647a6092c4778cd.jar" />
+    </item>
+    <item
+        jar="/Users/Stanley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Stanley/Desktop/SmartCap/AndroidApp/AndroidApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-a122af82ba6db50e603bc4ed5f55ce68015a32b6.jar" />
     </item>
 
 </items>

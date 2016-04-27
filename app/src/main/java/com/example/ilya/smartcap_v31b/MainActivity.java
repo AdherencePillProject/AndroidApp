@@ -114,6 +114,8 @@ public class MainActivity extends Activity
     private int val;
     private boolean header_done = false;
 
+    private Button button_send_to_parse;
+
     Calendar timeNow;
 
     int RSSI;
@@ -319,6 +321,15 @@ public class MainActivity extends Activity
                 showErrorDialog(R.string.error, R.string.discon_timeout_message);
             }
         };
+
+        button_send_to_parse = (Button) findViewById(R.id.button_send_to_parse);
+        button_send_to_parse.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, SendToParseActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     @Override
