@@ -69,7 +69,40 @@ public class SendToParseActivity extends AppCompatActivity {
         ParseObject testObject = new ParseObject("Bottle");
         testImageObject.put("UUID", timestamp);
         testImageObject.saveInBackground();
+
         
+        // Pin ParseQuery results
+        ParseQuery query = new ParseQuery("Deals");
+        List<ParseObject> objects = null; // Online ParseQuery results
+        try {
+            objects = query.find();
+        } catch (com.parse.ParseException e) {
+            e.printStackTrace();
+        }
+        ParseObject.pinAllInBackground(objects);
+// Query the Local Datastore
+        ParseQuery<ParseObject> query = ParseQuery.get("Feed")
+                .fromLocalDatastore()
+                .whereEquals("starred", true)
+                .findInBackground(new FindCallback<>() {
+                    public void done(List<ParseObject> objects, ParseException e) {
+                        // Update UI
+                    }
+                });
+
+        ParseObject feed = ParseQuery.get(objectId); // Online ParseQuery result
+        feed.fetch();
+        feed.put("starred", true);
+// No network connectivity
+        feed.saveEventually();
+        ParseQuery<ParseObject> query = ParseQuery.get("Feed")
+                .fromLocalDatastore()
+                .whereEquals("starred", true)
+                .findInBackground(new FindCallback() {
+                    public void done(List<ParseObject> objects, ParseException e) {
+                        // "feed" ParseObject will be returned in the list of results
+                    }
+                });
     }
 
     private boolean isNetworkConnected() {
