@@ -1,1 +1,1 @@
-include ':app', ':truconnectandroid'
+include ':app'
